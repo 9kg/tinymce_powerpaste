@@ -13,7 +13,6 @@
 然后！在你webpack的index.html中，通过script标签引入tinymce.min.js！你不是用webpack也没关系，反正通过标签引入就是了！
 
 ![script标签引入](https://upload-images.jianshu.io/upload_images/2626329-1591d0d2392c2244.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-这样说已经够明白了吧！还是看不懂的同学，打赏支持下吧
 
 接着tinymce初始化时
 
